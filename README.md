@@ -1,4 +1,4 @@
-# CSharp-Unity
+# Unity Projects
 
 The C# code from my first small projects/games built in Unity.
 
